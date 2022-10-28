@@ -1,0 +1,72 @@
+(0)Roulette Wheel Selection,One-point Crossover,Swap Mutation:
+[180, 41.798806773263806, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'A', 'H']], dtype='<U1')]
+(1)Roulette Wheel Selection,One-point Crossover,Scramble Mutation:
+[743, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'C', 'J']], dtype='<U1')]
+(2)Roulette Wheel Selection,One-point Crossover,Inversion Mutation:
+[170, 43.26081944895126, array([['G', 'I', 'B', 'F', 'D', 'E', 'A', 'H', 'C', 'J']], dtype='<U1')]
+(3)Roulette Wheel Selection,Two-point Crossover,Swap Mutation:
+[222, 43.79728150204224, array([['C', 'J', 'H', 'A', 'G', 'I', 'B', 'D', 'E', 'F']], dtype='<U1')]
+(4)Roulette Wheel Selection,Two-point Crossover,Scramble Mutation:
+[626, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(5)Roulette Wheel Selection,Two-point Crossover,Inversion Mutation:
+[850, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'J', 'C']], dtype='<U1')]
+(6)Roulette Wheel Selection,Three-point Crossover,Swap Mutation:
+[697, 41.798806773263806, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'A', 'H']], dtype='<U1')]
+(7)Roulette Wheel Selection,Three-point Crossover,Scramble Mutation:
+[149, 41.67927171176218, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'H', 'A', 'J']], dtype='<U1')]
+(8)Roulette Wheel Selection,Three-point Crossover,Inversion Mutation:
+[914, 40.96885437729605, array([['E', 'F', 'D', 'B', 'I', 'G', 'A', 'H', 'J', 'C']], dtype='<U1')]
+(4)Tournament Selection,One-point Crossover,Swap Mutation:
+[626, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(5)Tournament Selection,One-point Crossover,Scramble Mutation:
+[850, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'J', 'C']], dtype='<U1')]
+(6)Tournament Selection,One-point Crossover,Inversion Mutation:
+[697, 41.798806773263806, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'A', 'H']], dtype='<U1')]
+(7)Tournament Selection,Two-point Crossover,Swap Mutation:
+[149, 41.67927171176218, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'H', 'A', 'J']], dtype='<U1')]
+(8)Tournament Selection,Two-point Crossover,Scramble Mutation:
+[914, 40.96885437729605, array([['E', 'F', 'D', 'B', 'I', 'G', 'A', 'H', 'J', 'C']], dtype='<U1')]
+(9)Tournament Selection,Two-point Crossover,Inversion Mutation:
+[975, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(10)Tournament Selection,Three-point Crossover,Swap Mutation:
+[414, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'C', 'J']], dtype='<U1')]
+(11)Tournament Selection,Three-point Crossover,Scramble Mutation:
+[109, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'C', 'J']], dtype='<U1')]
+(12)Tournament Selection,Three-point Crossover,Inversion Mutation:
+[684, 41.798806773263806, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'A', 'H']], dtype='<U1')]
+(8)Rank Based Wheel Selection,One-point Crossover,Swap Mutation:
+[914, 40.96885437729605, array([['E', 'F', 'D', 'B', 'I', 'G', 'A', 'H', 'J', 'C']], dtype='<U1')]
+(9)Rank Based Wheel Selection,One-point Crossover,Scramble Mutation:
+[975, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(10)Rank Based Wheel Selection,One-point Crossover,Inversion Mutation:
+[414, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'C', 'J']], dtype='<U1')]
+(11)Rank Based Wheel Selection,Two-point Crossover,Swap Mutation:
+[109, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'C', 'J']], dtype='<U1')]
+(12)Rank Based Wheel Selection,Two-point Crossover,Scramble Mutation:
+[684, 41.798806773263806, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'A', 'H']], dtype='<U1')]
+(13)Rank Based Wheel Selection,Two-point Crossover,Inversion Mutation:
+[33, 40.96885437729605, array([['E', 'F', 'D', 'B', 'I', 'G', 'A', 'H', 'J', 'C']], dtype='<U1')]
+(14)Rank Based Wheel Selection,Three-point Crossover,Swap Mutation:
+[40, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(15)Rank Based Wheel Selection,Three-point Crossover,Scramble Mutation:
+[844, 44.585572482506564, array([['D', 'F', 'E', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(16)Rank Based Wheel Selection,Three-point Crossover,Inversion Mutation:
+[14, 44.38816377500675, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'C', 'H', 'J']], dtype='<U1')]
+(12)Elite Selection,One-point Crossover,Swap Mutation:
+[684, 41.798806773263806, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'A', 'H']], dtype='<U1')]
+(13)Elite Selection,One-point Crossover,Scramble Mutation:
+[33, 40.96885437729605, array([['E', 'F', 'D', 'B', 'I', 'G', 'A', 'H', 'J', 'C']], dtype='<U1')]
+(14)Elite Selection,One-point Crossover,Inversion Mutation:
+[40, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(15)Elite Selection,Two-point Crossover,Swap Mutation:
+[844, 44.585572482506564, array([['D', 'F', 'E', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(16)Elite Selection,Two-point Crossover,Scramble Mutation:
+[14, 44.38816377500675, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'C', 'H', 'J']], dtype='<U1')]
+(17)Elite Selection,Two-point Crossover,Inversion Mutation:
+[523, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(18)Elite Selection,Three-point Crossover,Swap Mutation:
+[843, 40.96885437729605, array([['E', 'F', 'D', 'B', 'I', 'G', 'A', 'H', 'C', 'J']], dtype='<U1')]
+(19)Elite Selection,Three-point Crossover,Scramble Mutation:
+[879, 40.536747591746966, array([['E', 'F', 'D', 'B', 'I', 'G', 'C', 'J', 'H', 'A']], dtype='<U1')]
+(20)Elite Selection,Three-point Crossover,Inversion Mutation:
+[824, 40.536747591746966, array([['G', 'I', 'B', 'D', 'F', 'E', 'A', 'H', 'C', 'J']], dtype='<U1')]
